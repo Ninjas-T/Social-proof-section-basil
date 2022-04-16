@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Screenshot
 <div display= 'flex'> 
-<img src="https://i.ibb.co/Npth8mP/screencapture-192-168-1-11-5501-index-html-2022-04-13-15-55-32.png" width='150' height='280' /></div>
-<div> <img src="https://i.ibb.co/gShNh8s/screencapture-192-168-1-11-5500-index-html-2022-04-14-00-42-11.png" alt="screencapture-192-168-1-11-5500-index-html-2022-04-14-00-42-11" /></div>
+<img src="https://ibb.co/1Q5bjDV" width='150' height='280' /></div>
+<div> <img src="https://ibb.co/GMXVLTZ" alt="screencapture-192-168-1-11-5500-index-html-2022-04-14-00-42-11" /></div>
 
 ### Links
 
