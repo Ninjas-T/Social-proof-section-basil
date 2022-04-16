@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Screenshot
 <div display= 'flex'> 
-<img src="https://ibb.co/1Q5bjDV" width='150' height='280' /></div>
-<div> <img src="https://ibb.co/GMXVLTZ" alt="screencapture-192-168-1-11-5500-index-html-2022-04-14-00-42-11" /></div>
+<img src="https://i.ibb.co/wgXYj9H/screencapture-127-0-0-1-5500-index-html-2022-04-17-00-29-28.png" width='150' height='280' /></div>
+<div> <img src="https://i.ibb.co/kDphf1L/screencapture-127-0-0-1-5500-index-html-2022-04-17-00-29-54.png" alt="screencapture" /></div>
 
 ### Links
 
@@ -38,10 +38,10 @@ Users should be able to:
 
 ### What I learned
 
-I learned how to use CSS flexbox and make the design responsive.
+I learned how to use CSS grid and make the design responsive.
 
 ### Continued development
 I will keep using flexbox along with CSS grid.
 
-### Done by [Shams Elkhoudary](https://github.com/Bas-Shiekh)
+### Done by [Basil Alhshiekh](https://github.com/Bas-Shiekh)
 #### Ninjas-T :ninja:
